@@ -1,6 +1,6 @@
 ## Michelle Ivan
 
-- 🔭 I’m currently working on
+## I’m currently working on
   - Full-stack Web Developer Journey
   - Svenska, since I'm living now in Sweden
   - English because I want to be fluently too
