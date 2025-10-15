@@ -22,4 +22,3 @@
 - Working as Computer Engineer
 - Succesful Content Creator
 - Wealthy Life
-- 
